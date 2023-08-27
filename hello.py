@@ -1,0 +1,1 @@
+print("Welcome To INLS 560")
