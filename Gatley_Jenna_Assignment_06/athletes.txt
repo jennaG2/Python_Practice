@@ -1,0 +1,40 @@
+﻿Brady,  Tom,  American Football
+Manning, Peyton, American Football
+Bettis, Jerome, American Football
+Smith, Emmitt, American Football
+Jeter, Derek, Baseball
+Rodriguez, Alex, Baseball
+Ruth, Babe, Baseball
+Barkley, Charles, Basketball
+James, LeBron, Basketball
+Jordan, Michael, Basketball
+Bryant, Kobe, Basketball
+Johnson, Magic, Basketball
+Nash, Steve, Basketball
+Ali, Muhammad, Boxing
+Mayweather Jr., Floyd, Boxing
+Pacquiao, Manny, Boxing
+Armstrong, Lance, Cycling
+Daley, Tom, Diving
+Schumacher, Michael, Formula 1
+Mickelson, Phil, Golf
+Woods, Tiger, Golf
+Biles, Simone, Gymnastics
+Comăneci, Nadia, Gymnastics
+Gretzky, Wayne, Ice Hockey
+Rousey, Ronda, Mixed Martial Arts
+Vonn, Lindsey, Skiing
+Hamm, Mia, Soccer
+Messi, Lionel, Soccer
+Ronaldo, Cristiano, Soccer
+Pele, Pelé, Soccer
+Phelps, Michael, Swimming
+Djokovic, Novak, Tennis
+Federer, Roger, Tennis
+Murray, Andy, Tennis
+Nadal, Rafael, Tennis
+Williams, Serena, Tennis
+Williams, Venus, Tennis
+Bolt, Usain, Track and Field
+Jones, Marion, Track and Field
+Pistorius, Oscar, Track and Field
